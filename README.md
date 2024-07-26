@@ -1,9 +1,7 @@
 # kg-extract
 基于结构化数据与抽取规则的知识抽取，从而构建知识图谱，数据源为MongoDB，提供RESTFul接口
 
-
-## Rule Design
-*TODO*
+详细设计可查看本人博客：https://blog.csdn.net/weixin_40338859/article/details/120729716
 
 
 ## Get Started
